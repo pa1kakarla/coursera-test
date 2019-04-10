@@ -52,13 +52,13 @@
 
   @media screen and (min-width: 992px) {
     .chicken {
-      width: 400px;
+      width: 33%;
     }
     .beef {
-        max-width: 400px;
+        max-width: 40%;
     }
     .sushi {
-        max-width: 400px;
+        max-width: 40%;
     }
   }
 
